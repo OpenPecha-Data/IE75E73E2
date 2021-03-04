@@ -1,45 +1,52 @@
-id: opecha:P000546
+id: P000546
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS16918
   title: གསུང་འབུམ། ཤེས་རབ་རྒྱལ་མཚན།
-  volume:
+  author: ''
+  volumes:
     52019854d3844a38af778ed6799cadf1:
       image_group_id: I8LS16929
       title: Volume 1 of gsung 'bum/ shes rab rgyal mtshan/
       volume_number: 1
       total_pages: 1346
+      base_file: v001.txt
     da0e78a044cc443b8d54f7155a102b98:
       image_group_id: I8LS16930
       title: Volume 2 of gsung 'bum/ shes rab rgyal mtshan/
       volume_number: 2
       total_pages: 1155
+      base_file: v002.txt
     93adff919dba4751bc452f0108415bff:
       image_group_id: I8LS16931
       title: Volume 3 of gsung 'bum/ shes rab rgyal mtshan/
       volume_number: 3
       total_pages: 1196
+      base_file: v003.txt
     7dc9247bc3c84e3aa659d8f4b7bf93f0:
       image_group_id: I8LS16932
       title: Volume 4 of gsung 'bum/ shes rab rgyal mtshan/
       volume_number: 4
       total_pages: 1042
+      base_file: v004.txt
     293df410fdbb433fa1e5c58c7aad585d:
       image_group_id: I8LS16933
       title: Volume 5 of gsung 'bum/ shes rab rgyal mtshan/
       volume_number: 5
       total_pages: 992
+      base_file: v005.txt
     8902c1f30b124a4492409a74a75e4929:
       image_group_id: I8LS16934
       title: Volume 6 of gsung 'bum/ shes rab rgyal mtshan/
       volume_number: 6
       total_pages: 962
+      base_file: v006.txt
     c61700cd63d746caa1692324b4538c8a:
       image_group_id: I8LS16935
       title: Volume 7 of gsung 'bum/ shes rab rgyal mtshan/
       volume_number: 7
       total_pages: 1390
-  author: ''
+      base_file: v007.txt
 ebook_metadata:
   title: གསུང་འབུམ། ཤེས་རབ་རྒྱལ་མཚན།
   author: ''
