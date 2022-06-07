@@ -1,53 +1,63 @@
-id: P000546
+id: IE75E73E2
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 27/03/2020
-last_modified_at: 2021-12-16 15:46:06.794934
+imported: '2020-03-27T03:37:47+00:00'
+last_modified: '2022-06-07T12:11:01.954467+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W8LS16918
   title: གསུང་འབུམ། ཤེས་རབ་རྒྱལ་མཚན།
   author: ''
-  volumes:
-    52019854d3844a38af778ed6799cadf1:
-      image_group_id: I8LS16929
-      title: Volume 1 of gsung 'bum/ shes rab rgyal mtshan/
-      volume_number: 1
-      total_pages: 1346
-      base_file: v001.txt
-    da0e78a044cc443b8d54f7155a102b98:
-      image_group_id: I8LS16930
-      title: Volume 2 of gsung 'bum/ shes rab rgyal mtshan/
-      volume_number: 2
-      total_pages: 1155
-      base_file: v002.txt
-    93adff919dba4751bc452f0108415bff:
-      image_group_id: I8LS16931
-      title: Volume 3 of gsung 'bum/ shes rab rgyal mtshan/
-      volume_number: 3
-      total_pages: 1196
-      base_file: v003.txt
-    7dc9247bc3c84e3aa659d8f4b7bf93f0:
-      image_group_id: I8LS16932
-      title: Volume 4 of gsung 'bum/ shes rab rgyal mtshan/
-      volume_number: 4
-      total_pages: 1042
-      base_file: v004.txt
-    293df410fdbb433fa1e5c58c7aad585d:
-      image_group_id: I8LS16933
-      title: Volume 5 of gsung 'bum/ shes rab rgyal mtshan/
-      volume_number: 5
-      total_pages: 992
-      base_file: v005.txt
-    8902c1f30b124a4492409a74a75e4929:
-      image_group_id: I8LS16934
-      title: Volume 6 of gsung 'bum/ shes rab rgyal mtshan/
-      volume_number: 6
-      total_pages: 962
-      base_file: v006.txt
-    c61700cd63d746caa1692324b4538c8a:
-      image_group_id: I8LS16935
-      title: Volume 7 of gsung 'bum/ shes rab rgyal mtshan/
-      volume_number: 7
-      total_pages: 1390
-      base_file: v007.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: false
+  base:
+    '8794':
+      image_group_id: I8LS16929
+      title: Volume 1 of gsung 'bum/ shes rab rgyal mtshan/
+      total_pages: 1346
+      order: 1
+      base_file: 8794.txt
+    1EBC:
+      image_group_id: I8LS16930
+      title: Volume 2 of gsung 'bum/ shes rab rgyal mtshan/
+      total_pages: 1155
+      order: 2
+      base_file: 1EBC.txt
+    D470:
+      image_group_id: I8LS16931
+      title: Volume 3 of gsung 'bum/ shes rab rgyal mtshan/
+      total_pages: 1196
+      order: 3
+      base_file: D470.txt
+    45EF:
+      image_group_id: I8LS16932
+      title: Volume 4 of gsung 'bum/ shes rab rgyal mtshan/
+      total_pages: 1042
+      order: 4
+      base_file: 45EF.txt
+    B700:
+      image_group_id: I8LS16933
+      title: Volume 5 of gsung 'bum/ shes rab rgyal mtshan/
+      total_pages: 992
+      order: 5
+      base_file: B700.txt
+    5BD8:
+      image_group_id: I8LS16934
+      title: Volume 6 of gsung 'bum/ shes rab rgyal mtshan/
+      total_pages: 962
+      order: 6
+      base_file: 5BD8.txt
+    '8685':
+      image_group_id: I8LS16935
+      title: Volume 7 of gsung 'bum/ shes rab rgyal mtshan/
+      total_pages: 1390
+      order: 7
+      base_file: 8685.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
